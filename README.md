@@ -1,2 +1,2 @@
 # marcosborg.es
-My personal website :ok_hand:
+> :ok_hand: My personal website
