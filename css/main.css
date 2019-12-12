@@ -107,30 +107,15 @@ img {
   opacity: 0.9;
 }
 
-.social__link--facebook::before {
-  content: url(../img/facebook.svg);
+.social__link--linkedin::before {
+  content: url(../img/linkedin.svg);
 }
 
-.social__link--instagram::before {
-  content: url(../img/instagram.svg);
-}
 
 .social__link--github::before {
   content: url(../img/github.svg);
 }
 
-.social__link--codepen::before {
-  content: url(../img/codepen.svg);
-}
-
-.social__link--linkedin::before {
-  content: url(../img/linkedin.svg);
-}
-
-.social__link--email::before {
-  content: url(../img/email.svg);
-}
-
-.social__link:hover {
-  color: #03a9f4;
+.social__link--twitter::before {
+  content: url(../img/twitter.svg);
 }
